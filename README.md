@@ -1,12 +1,12 @@
 # Game-2048
 
-#Description
+# Description
 
 This project is a JavaScript implementation of the popular 2048 game. The game allows players to combine tiles by moving them in four directions (left, right, up, or down) to reach the goal of creating a tile with the value 2048.
 
 The game includes all core mechanics of the original 2048, such as merging tiles, spawning new tiles, and managing win/loss conditions. The user interface is interactive and responsive, providing a seamless gaming experience.
 
-#Features
+# Features
 
 Game Field: A 4x4 grid where the game takes place.
 Tile Movement: Tiles move and merge based on the player’s arrow key inputs.
@@ -18,7 +18,7 @@ Restart Button: Resets the game to the initial state.
 Dynamic UI: Updates the grid and score in real-time as the game progresses.
 Keyboard Controls: Handles player input via arrow keys for smooth gameplay.
 
-#How to Play
+# How to Play
 
 Use the arrow keys (←, ↑, →, ↓) to move the tiles.
 Tiles with the same value merge into one when they collide, forming a tile with double the value.
